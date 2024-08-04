@@ -32,5 +32,5 @@ The Cinema Ticket System is a command-line application that manages information 
 Run the program using the following command:
 
 ```sh
-python cinema_ticket_system.py
+python main.py
 ```
